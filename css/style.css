@@ -144,7 +144,7 @@ header {
 .logo a,
 .logo2 a {
     color: #fff;
-    font-size: 33px;
+    font-size: 20px;
     letter-spacing: 1px;
 
     font-weight: 700;
@@ -253,8 +253,9 @@ body {
     display: inline-block;
     width: 28px;
     height: 30px;
-    margin-top: 30px;
+    margin-top: 23px;
     margin-bottom: 10px;
+    margin-left: 120px;
 }
 
 #toggle span:after,
@@ -398,7 +399,7 @@ body {
 .banner-top2,
 .banner-top3,
 .banner-top4 {
-    min-height: 800px;
+    min-height: 1250px;
 }
 
 /* //banner */
@@ -406,17 +407,12 @@ body {
 /* about */
 
 h3.title {
-    font-size: 50px;
+    font-size: 40px;
     text-transform: uppercase !important;
     font-weight: 700;
 }
 
-h3.title span {
-    border-bottom: 4px double #ff5252;
-    display: inherit;
-    max-width: 80px;
-    margin: 0 auto;
-}
+
 
 .carousel-inner {
     box-shadow: -31px 29px 6px -6px rgba(16, 16, 16, 0.08);
@@ -665,7 +661,7 @@ body {
 
 .contact-left h4 {
     margin-bottom: 10px;
-    font-size: 20px;
+    font-size: 16px;
     letter-spacing: 1px;
 }
 
@@ -976,7 +972,8 @@ button.seri-w3ls:hover {
 
 p.copyright-w3ls {
     color: #eee;
-    letter-spacing: 2px;
+    letter-spacing: 0px;
+    font-size: 10px;
 }
 
 p.copyright-w3ls a {
@@ -1082,7 +1079,7 @@ p.copyright-w3ls a:hover {
     }
 
     h4.about-left-agile {
-        font-size: 22px;
+        font-size: 16px;
     }
 
     p {
@@ -1090,7 +1087,7 @@ p.copyright-w3ls a:hover {
     }
 
     h3.title {
-        font-size: 44px;
+        font-size: 30px;
     }
 
     .caption {
@@ -1146,7 +1143,7 @@ p.copyright-w3ls a:hover {
     .banner-top2,
     .banner-top3,
     .banner-top4 {
-        min-height: 580px;
+        min-height: 500px;
     }
 
     .banner-info {
@@ -1231,7 +1228,7 @@ p.copyright-w3ls a:hover {
     }
 
     h3.title {
-        font-size: 38px;
+        font-size: 25px;
     }
 
     #menu:after {
@@ -1250,7 +1247,7 @@ p.copyright-w3ls a:hover {
     }
 
     .test-review.test-tooltip1 h6 {
-        font-size: 23px;
+        font-size: 17px;
     }
 
     #menu:after {
@@ -1304,7 +1301,7 @@ p.copyright-w3ls a:hover {
 
 @media(max-width: 667px) {
     .bottom-w3ls1 h4 {
-        font-size: 21px;
+        font-size: 15px;
     }
 
     .bottom-w3ls1 i {
@@ -1347,7 +1344,7 @@ p.copyright-w3ls a:hover {
     .banner-top2,
     .banner-top3,
     .banner-top4 {
-        min-height: 450px;
+        min-height: 270px;
     }
 
     .carousel-inner {
@@ -1356,7 +1353,7 @@ p.copyright-w3ls a:hover {
     }
 
     h3.title {
-        font-size: 40px;
+        font-size: 20px;
     }
 
     .posi-w3ls-bottom {
@@ -1383,7 +1380,7 @@ p.copyright-w3ls a:hover {
 
     .logo a,
     .logo2 a {
-        font-size: 28px;
+        font-size: 15px;
     }
 
     #menu:after {
@@ -1420,7 +1417,7 @@ p.copyright-w3ls a:hover {
 
     .logo a,
     .logo2 a {
-        font-size: 26px;
+        font-size: 15px;
     }
 
     .row.header-w3ls-top {
@@ -1432,11 +1429,12 @@ p.copyright-w3ls a:hover {
     }
 
     #toggle {
-        margin-top: 22px;
+        margin-top: 58px;
+        margin-left: 120px;
     }
 
     h3.title {
-        font-size: 32px;
+        font-size: 20px;
     }
 }
 
@@ -1463,7 +1461,7 @@ p.copyright-w3ls a:hover {
 
     .logo a,
     .logo2 a {
-        font-size: 25px;
+        font-size: 15px;
     }
 
     .logo {
@@ -1483,19 +1481,17 @@ p.copyright-w3ls a:hover {
     }
 
     p.copyright-w3ls {
-        letter-spacing: 1px;
+        letter-spacing: 0px;
+        font-size: 10px;
     }
 }
 
 @media(max-width: 414px) {
     h3.title {
-        font-size: 30px;
+        font-size: 20px;
     }
 
-    h3.title span {
-        max-width: 60px;
-    }
-
+   
     .caption {
         width: 86%;
         left: 28px;
@@ -1506,7 +1502,7 @@ p.copyright-w3ls a:hover {
     }
 
     .logo a {
-        font-size: 24px;
+        font-size: 15px;
     }
 
     .banner-info {
@@ -1517,7 +1513,7 @@ p.copyright-w3ls a:hover {
     .banner-top2,
     .banner-top3,
     .banner-top4 {
-        min-height: 390px;
+        min-height: 262px;
     }
 
     .agileits_social_list li a {
@@ -1533,7 +1529,7 @@ p.copyright-w3ls a:hover {
 
 @media(max-width: 384px) {
     .logo a {
-        font-size: 21px;
+        font-size: 20px;
     }
 
     #menu:after {
@@ -1541,7 +1537,7 @@ p.copyright-w3ls a:hover {
     }
 
     .name {
-        font-size: 27px;
+        font-size: 10px;
     }
 
     .posi-w3ls-bottom {
